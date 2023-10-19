@@ -1,0 +1,4 @@
+baseURL = 'https://www.shenzhongwei.asia/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'whiteplain'
