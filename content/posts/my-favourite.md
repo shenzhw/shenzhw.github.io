@@ -5,8 +5,7 @@ draft: false
 ---
 
 ## 文字
-1. [科技爱好者周刊]（https://www.ruanyifeng.com/blog/）
-2. [程序员的喵]（https://catcoding.me/）
-
+1. [科技爱好者周刊](https://www.ruanyifeng.com/blog/)
+2. [程序员的喵](https://catcoding.me/)
 
 ## 视频
