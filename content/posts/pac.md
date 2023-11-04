@@ -1,4 +1,8 @@
-## PAC文件解析
+---
+title: "PAC文件解析"
+date: 2023-11-04T21:27:30+08:00
+draft: false
+---
 
 维基百科有详细的解释[PAC](https://en.wikipedia.org/wiki/Proxy_auto-config)文件到底是什么。
 
