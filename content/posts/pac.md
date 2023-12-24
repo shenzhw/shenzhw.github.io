@@ -21,3 +21,11 @@ returnValue = type host,":",port,[{ ";",returnValue }];
   host        = UTF16String       (* ECMA262-compatible UTF16 string *)
   port        = UTF16String       (* Digits *)
 ```
+
+如果走HTTP代理的话，要写成这样：
+```javascript
+return 'PROXY 192.168.3.5:1087; DIRECT';
+```
+这里其实有一个容错机制，先走代理，如果走不通，再走直连。
+
+这个架构方案的核心其实是gost，是时候研究一下gost的源码了。
