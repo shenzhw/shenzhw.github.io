@@ -20,3 +20,9 @@ draft: false
 
 > As developers, our task is not just to solve today's problems but also to ensure we do not become tomorrow's problem.
 > 作为开发人员，我们的任务不仅仅是解决今天的问题，还要确保我们不会成为明天的问题。
+
+[《有关单元测试的5个建议》](https://www.piglei.com/articles/5-tips-on-unit-testing/)
+
+> 拿 Python 的测试框架 pytest 来说，假如你并不知道参数化测试 @pytest.mark.parametrize 的存在，那你就得重复许多相似的测试用例代码。
+
+[《游戏〈蔚蓝山〉教我的编程道理》](https://www.piglei.com/articles/what-celeste-teaches-me-about-programming/)
